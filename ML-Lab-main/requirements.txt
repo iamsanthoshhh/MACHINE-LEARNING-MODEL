@@ -1,0 +1,16 @@
+hmmlearn
+kaggle
+keras
+matplotlib
+nbconvert
+nltk
+notebook
+numpy
+opendatasets
+pandas
+plotly
+seaborn
+scikit-learn
+scipy
+tensorflow
+tensorflow_datasets
